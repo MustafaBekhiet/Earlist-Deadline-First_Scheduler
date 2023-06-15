@@ -1,4 +1,4 @@
-# EDF_Scheduler
+# Earlist-Deadline-First_Scheduler
 
 Earliest Deadline First:
 The first scheduler we will implement is based on the Earliest Deadline First
